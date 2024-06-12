@@ -4,6 +4,7 @@ excerpt: WIP
 publishDate: 'Jun 12 2024'
 tags:
   - Guide
+isFeatured: true
 seo:
   image:
     src: '/post-1.jpg'
