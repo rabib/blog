@@ -37,12 +37,12 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Blog',
-    subtitle: 'Rambling',
-    description: 'Putting thoughts down',
+    title: 'Rabib\'s Blog',
+    subtitle: 'Reflections on life',
+    description: 'Signposts to freedom and maybe a little extra',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/tired-guts.jpeg',
+        alt: 'Rabib\'s blog'
     },
     headerNavLinks: [
         {
@@ -52,11 +52,15 @@ const siteConfig: SiteConfig = {
         {
             text: 'Blog',
             href: '/blog'
+        },
+        {
+            text: 'Contact',
+            href: 'https://rabib.xyz'
         }
     ],
     hero: {
         title: 'Home',
-        text: "Here, there is a blog.",
+        text: "Blog WIP",
         image: {
             src: '/tired-guts.jpeg',
             alt: 'Guts'
