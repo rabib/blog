@@ -1,7 +1,7 @@
 ---
 title: Delicate
 excerpt: WIP
-publishDate: 'Jun 12 2024'
+publishDate: 'Jul 3 2024'
 tags:
   - Guide
 isFeatured: true
