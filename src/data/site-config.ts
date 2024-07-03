@@ -41,7 +41,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'Reflections on life',
     description: 'Signposts to freedom and maybe a little extra',
     image: {
-        src: '/tired-guts.jpeg',
+        src: '/idea.jpg',
         alt: 'Rabib\'s blog'
     },
     headerNavLinks: [
@@ -62,7 +62,7 @@ const siteConfig: SiteConfig = {
         title: 'Home',
         text: "Blog WIP",
         image: {
-            src: '/tired-guts.jpeg',
+            src: '/idea.jpg',
             alt: 'Guts'
         },
     },
