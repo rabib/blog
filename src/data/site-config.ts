@@ -60,10 +60,10 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Home',
-        text: "Blog WIP",
+        text: "Reach out to me if there's anything written in this blog that you'd like to discuss.",
         image: {
             src: '/idea.jpg',
-            alt: 'Guts'
+            alt: 'Idea'
         },
     },
     postsPerPage: 8
