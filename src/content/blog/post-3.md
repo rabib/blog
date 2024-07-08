@@ -27,7 +27,7 @@ What if this anxiety rises to the level of being unbearable? What if it impedes 
 
 This might start to sound silly. "Yes, it's a condition. So are your lungs, your heart, and the head on your shoulders."
 
-To which I say, yes, that's true. _And_, that's a problem. After all, it means that whoever's happiness is dependent on the condition that is their _body_ is doomed to sadness on account of our bodies gradually disintegrating as we age.
+To which I say, yes, that's true. _And_, that's a problem. After all, it means that whoever stakes their happiness on their body is doomed to sorrow. After all, if there's anything we learn from looking at others, it's that bodies break down given enough time.
 
 No wonder, then, how common it is for people to turn to religion in their later years. As the faculties start to fail, as dear friends pass away, and as kids move out the house, few things may appear to be as compelling as _what might not be dependent on this body_. Surely, I am not bound to this body forever? Surely, death is a temporary affair that will end in my resurrection somewhere better?
 
