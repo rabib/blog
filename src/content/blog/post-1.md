@@ -1,66 +1,42 @@
 ---
-title: Delicate
-excerpt: WIP
-publishDate: 'Jul 4 2024'
+title: On Anxiety
+excerpt: 'The soothsayer: few states such as anxiety are as indicative about the human condition at every stage of life, from birth to death.'
+publishDate: 'Jul 8 2024'
 tags:
   - Hello
-isFeatured: false
+isFeatured: true
 seo:
   image:
-    src: '/bookshelf.jpg'
-    alt: Bookshelf
+    src: '/anxiety-pastel-cropped.jpg'
+    alt: Anxiety
 ---
 
-<!-- As I looked at the washed-out image of a mufti sitting in front of a bookcase of Islamic literature, I couldn't help but notice how luminous the picture seemed. Sure, the camera quality wasn't great, but with that attitude in that moment I was noticing the light.
+![Anxiety](/anxiety-pastel-cropped.jpg)
 
-![Bookshelf](/bookshelf.jpg)
+_Etymology: From Latin anxietās, from anxius (“anxious, solicitous, distressed, troubled”), from angō (“to distress, trouble”), akin to Ancient Greek ἄγχω (ánkhō, “to choke”). Equivalent to anxious + -ety._
 
-No doubt, it also had something to do with those shiny Arabic words, emblazoned in golden lettering, so intricately shaped and connected on the covers of those books.
+The soothsayer: few states such as anxiety are as indicative about the human condition at every stage of life, from birth to death. Take any human being who is able to converse, and there is almost certainly some combination of words, told from somebody, that will cause them to panic. And this makes perfect sense: things are usually going substantially better than they can be for any given person, but every happy station is necessarily propped up by some fortunate _conditions_, each which stands on its own conditions.
 
-How curious, though, that this computer screen in front of me was emitting the light that caught my eyes. What an _engineered_ technology, suspended in a house that sheltered me. And these eyes were there to catch this light, sitting in this body that supports them. What are the chances of all this happening? It was as though it were meant to be. You might say it's moments like these that justify belief in a divine architect.
+Take your average married father in the city. He has a stable enough job, a wife he gets along with most of the time, and a child or two. He takes pride in his ability to provide for his family, and he looks forward to seeing his children grow up. Now, if anything were to happen to any of those possessions, he would at least become quite upset, and in the worst case, stricken with grief and despair, traumatized. He is therefore happy (if he is, indeed, happy at all!) with his livelihood, his wife, his kids as condition.
 
-But for all the wonder a sight like this might rouse, it's all suspended on one jugular vein.
+And yet, it's undeniable that his relationships with each of the above conditions must at some point come to an end. He will have to stop working one day. Either he outlives his wife or vice versa. The same applies to his children. He might not think about this often, but _if_ he were to dwell on it frequently and for long enough, he may find that even the joys in his life are obscured by worry. _This_ is anxiety.
 
-What a delicate balance ...
+And such thoughts are not easy to purge. As much as one tries to banish them, listening to music, watching television, talking to friends, taking to drink, those same thoughts and fears are likely, when one is sober and alone, to come back with a vengeance.
 
-And as such, if I were to have insisted on the beauty of this image, on taking pleasure in this moment, I would have lost the plot. For as swiftly as this image came to me, as swiftly as this train of thoughts passed through my mind, perhaps even more swiftly that jugular could be cut in twain, and that sight, that curiosity, that appreciation could all be snatched away.
+What if this anxiety rises to the level of being unbearable? What if it impedes us in our day-to-day affairs? We might rightly go to seek treatment from a professional. And what is the outcome? Per a [study based on a 2014 survey](https://doi.org/10.24095/hpcdp.37.5.04), 74.9% of Canadians with a mood and/or an anxiety disorder diagnosis were being treated with medications. And for one's personal productivity and ability to carry on, such medications may be critical. But isn't this yet another _condition_?
 
-A fragile world, isn't it? Whatever to do about it?
+This might start to sound silly. "Yes, it's a condition. So are your lungs, your heart, and the head on your shoulders."
 
-“Bhikkhus, I was delicately nurtured, most delicately nurtured, extremely delicately nurtured. At my father’s residence lotus ponds were made just for my enjoyment: in one of them blue lotuses bloomed, in another red lotuses, and in a third white lotuses. I used no sandalwood unless it came from Kāsi and my headdress, jacket, lower garment, and upper garment were made of cloth from Kāsi. By day and by night a white canopy was held over me so that cold and heat, dust, grass, and dew would not settle on me.
+To which I say, yes, that's true. _And_, that's a problem. After all, it means that whoever stakes their happiness on their body is doomed to sorrow. After all, if there's anything we learn from looking at others, it's that bodies break down given enough time.
 
-“I had three mansions: one for the winter, one for the summer, and one for the rainy season. I spent the four months of the rains in the rainy-season mansion, being entertained by musicians, none of whom were male, and I did not leave the mansion. While in other people’s homes slaves, workers, and servants are given broken rice together with sour gruel for their meals, in my father’s residence they were given choice hill rice, meat, and boiled rice.
+No wonder, then, how common it is for people to turn to religion in their later years. As the faculties start to fail, as dear friends pass away, and as kids move out the house, few things may appear to be as compelling as _what might not be dependent on this body_. Surely, I am not bound to this body forever? Surely, death is a temporary affair that will end in my resurrection somewhere better?
 
-(1) “Amid such splendor and a delicate life, it occurred to me: ‘An uninstructed worldling, though himself subject to old age, not exempt from old age, feels repelled, humiliated, and disgusted when he sees another who is old, overlooking his own situation. Now I too am subject to old age and am not exempt from old age. Such being the case, if I were to feel repelled, humiliated, and disgusted when seeing another who is old, that would not be proper for me.’ When I reflected thus, my intoxication with youth was completely abandoned.
+If only we could assure ourselves of such things. However, any such faith is ultimately built upon conjecture. Even if you saw a purportedly honest man rising up into the clouds as he assured your prosperity, what if it were a hoax? A dream? A hallucination? At the end of the day, to rely on any miracle, any promise, no matter how well-attested, you would be relying on something that you yourself cannot guarantee. And even if you were to reappear in heaven, who's to say you'd be allowed to stay forever? Who's to say you wouldn't roast in hell after a nice long stay?
 
-(2) “Again, it occurred to me: ‘An uninstructed worldling, though himself subject to illness ... When I reflected thus, my intoxication with health was completely abandoned.
+As for the atheist who considers that they will be annihilated at death, I ask a question: is it not a contradiction in terms to experience your own non-existence? Some might imagine hearing nothing and seeing black, but this all requires a mind to perceive that "nothing". Rather, for someone who dies drowning, I would imagine it more likely that they'd experience that drowning forever.
 
-(3) “Again, it occurred to me: ‘An uninstructed worldling, though himself subject to death ... When I reflected thus, my intoxication with life was completely abandoned.
+_Mind and body_. At the end of the day, all human concerns hinge on these. After all, whether that father gets to see his wife and child is dependent on his eyes, the hearing on his ears, and so on. Not to mention what we see or don't see when we die. But the phenomena that appear to us, as our anxiety bears witness, are unpredictable.
 
-“There are, bhikkhus, these three kinds of intoxication. What three? Intoxication with youth, intoxication with health, and intoxication with life. (1) An uninstructed worldling, intoxicated with youth, engages in misconduct by body, speech, and mind. With the breakup of the body, after death, he is reborn in the plane of misery, in a bad destination, in the lower world, in hell. (2) An uninstructed worldling, intoxicated with health, engages in misconduct by body, speech, and mind. With the breakup of the body, after death, he is reborn in the plane of misery, in a bad destination, in the lower world, in hell. (3) An uninstructed worldling, intoxicated with life, engages in misconduct by body, speech, and mind. With the breakup of the body, after death, he is reborn in the plane of misery, in a bad destination, in the lower world, in hell.
+In the face of such uncertainty, wouldn't it be nice if there were one thing that that were guaranteed? One thing that, no matter what happened, could promise freedom from distress? And wouldn't it be nice if it banished anxiety once and for all? Such a thing, dear reader, does exist; it is the polar opposite of that very anxiety. We must place faith in it and train in it so that it remains permanently established:
 
-“Intoxicated with youth, a bhikkhu gives up the training and reverts to the lower life; or intoxicated with health, he gives up the training and reverts to the lower life; or intoxicated with life, he gives up the training and reverts to the lower life.
-
-“Worldlings subject to illness,
-old age, and death, are disgusted
-by other people who exist
-in accordance with their nature.
-
-“If I were to become disgusted
-with beings who have such a nature,
-that would not be proper for me
-since I too have the same nature.
-
-“While I was dwelling thus,
-having known the state without acquisitions,
-I overcame all intoxications—
-intoxication with health,
-with youth, and with life—
-having seen security in renunciation.
-
-“Zeal then arose in me
-as I clearly saw nibbāna.
-Now I am incapable
-of indulging in sensual pleasures.
-Relying on the spiritual life,
-never will I turn back.” -->
+Effortless dispassion.
