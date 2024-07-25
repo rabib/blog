@@ -1,14 +1,42 @@
 ---
-title: What Is God?
-excerpt: WIP
-publishDate: 'Jul 30 2024'
+title: Pursuing the Truth
+excerpt: Few things are considered to be as noble as pursuing the truth.
+publishDate: 'Jul 25 2024'
 tags:
   - Hello
 isFeatured: false
 seo:
   image:
-    src: '/mountain-range.jpg'
-    alt: Mountain range
+    src: '/painful-truth.jpg'
+    alt: Flower on floor
 ---
 
-![Mountain range](/mountain-range.jpg)
+![Flower on floor](/painful-truth.jpg)
+
+Few things are considered to be as noble as pursuing the truth. And yet, how often do we consider to what end we do so?
+
+It may be the case that prior to civilization, uncovering the truth was mainly a means of survival. A hunter-gatherer should want to know what is rustling in the bush nearby. If it's a lion, I should get ready to fight. If it's a groundhog, I can rest at ease.
+
+With the more pressing matter of survival taken care of, surely pleasure would become factored into the equation. Were I to learn where the larger prey roamed, I might enjoy my meals more and be able to relax for longer in between hunts.
+
+Perhaps it is the case that as civilization came about, the instinct for learning became pulled into topics that became ever less geared towards solving immediate problems. After all, if I'm not concerned about where my next meal is coming from, I can think about all manner of things.
+
+1. 16-year-old me wanted to know how to calculate the vertex of a parabola.
+2. Before high school, I was curious whether the world would come to an end soon as purportedly predicted by some [Mayan doomsday prophecy](https://en.wikipedia.org/wiki/2012_phenomenon).
+3. Even younger, I probably concerned myself with what was going to happen on the next episode of Dragon Ball Z.
+
+In every case, I was concerned with a certain type of truth. And in each of the above cases, I wasn't driven by an immediate concern of how to escape death. Nonetheless, it's probably possible to rank these questions in terms of how important they are. For example, it's probably not the most productive use of time to be watching television. And even if that apocalypse were to happen, I didn't inquire into it with the goal or prospect of avoiding disaster. By contrast, learning math was part of my journey towards establishing a livelihood. Further, I would be able to share that knowledge, potentially helping others benefit themselves as well.
+
+So it seems there is a way to rank different pursuits of truth in terms of worthiness. That kind of knowledge that stands to yield the greatest benefit should rightly be regarded as the most worth seeking, while facts that serve only to fill heads and uselessly absorb streams of thought ought to be cast aside.
+
+I haven't even touched upon those truths that are actively harmful. Indeed, depending on context, the introduction of controversial facts can lead to harm. Take, for example, the resolution of a feud between two families, where someone brings up an old point of contention in order to complicate peace negotiations. Worse than useless, one might even justify a temporary ban on some facts for the sake of the common good.
+
+And yet, such facts are what gain the most attention. People will flock towards them, hoist them on signs in public, and split camp over them. It's no wonder then that media will seize upon the opportunity to broadcast them and further entrench rifts between opponents. How could it be otherwise: with information flowing more quickly and easily than ever before people on either side of political divides are bound to find each other ever the more intolerable: social media is like oil that spreads fire.
+
+And on some sides, there are those who would speculate as though stuck scratching an itch, weaving fanciful tales from disconnected points of data, imagining archvillains with lackeys and their unsuspecting prey. Leaving aside the terrible anxiety one might feel by taking such notions to heart, and seeing potential enemies on all sides, we should take heed that such theories may lead to [disastrous ends](https://en.wikipedia.org/wiki/Armenian_genocide).
+
+It should come as no surprise that it's due to controversies that you'll find people saying they would fight, kill, and die "for the truth". Immersing oneself in narratives of conflict and intrigue will agitate and inflame the mind. It is all too easy nowadays that "the truth" would consume life rather than serve it.
+
+Noble it is to use one truth to feed mouths many times over. What then of accumulating and ruminating on facts with the effect, intended or otherwise, of spreading chaos internally and externally?
+
+But let us not mistake life as the summum bonum, for it, too, must come to an end.
