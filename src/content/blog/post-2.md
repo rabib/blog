@@ -4,7 +4,7 @@ excerpt: Few things are considered to be as noble as pursuing the truth.
 publishDate: 'Jul 25 2024'
 tags:
   - Hello
-isFeatured: false
+isFeatured: true
 seo:
   image:
     src: '/painful-truth.jpg'
