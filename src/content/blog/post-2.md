@@ -39,4 +39,10 @@ It should come as no surprise that it's due to political controversies that you'
 
 Noble it is to use one truth to feed mouths many times over. What then of accumulating and ruminating on facts with the effect, intended or otherwise, of spreading chaos internally and externally?
 
-But let us not mistake life as the summum bonum, for it, too, must come to an end.
+But let us not mistake life as the summum bonum, for it, too, must come to an end. And this, here, could be enough to drive a person mad. Say the world really is coming to an end. Then what will be the use of my efforts in helping others? And yet, there are those with the moral intuition that helping others is more worthwhile than engaging with pleasures of the senses. And that intuition would persist in the absence of anyone else in the world to receive my aid.
+
+As it happens, there is a truth that goes beyond life and death, and that at once serves the ultimate benefit. It is the truth of not obscuring the truth.
+
+And what obscures the truth? It is my passion. My leaning towards what is pleasant, my leaning away from what is unpleasant, and my inability to sit with what is neither. My dissatisfaction with whatever is present is what enables me to conjure up fictions where otherwise any and all truths would lay themselves bare.
+
+It is in being unmoved by desire for anything in the world that truth becomes evident.
